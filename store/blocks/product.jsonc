@@ -33,6 +33,6 @@
     }
   },
   "flex-layout.row#qty-sku": {
-    "children": ["sku-selector"]
+    "children": ["sku-selector", "product-quantity"]
   }
 }
