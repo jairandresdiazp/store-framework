@@ -1,11 +1,10 @@
 .infoCardHeadline {
   font-family: serif;
   font-size: 2.25rem;
-  max-width: 1260px;
+  padding: 24px;
   color: black;
   font-weight: bold;
   margin: auto;
-  padding: 0px;
   border: 2px solid black;
 }
 
@@ -27,4 +26,9 @@
 
 .infoCardContainer--metal {
   background-color: #e1e1e1;
+}
+
+.infoCardContainer {
+  max-width: 1260px;
+  padding: 0px;
 }
