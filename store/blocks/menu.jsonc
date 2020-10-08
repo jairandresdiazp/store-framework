@@ -3,10 +3,7 @@
     "children": [
       "menu-item#major-appliances",
       "menu-item#small-appliances",
-      "menu-item#electronics",
-      "menu-item#refrigerators",
-      "menu-item#ovens",
-      "menu-item#washers"
+      "menu-item#electronics"
     ],
     "props": {
       "orientation": "horizontal"
