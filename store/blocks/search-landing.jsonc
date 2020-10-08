@@ -1,8 +1,8 @@
 {
   "store.custom#landing": {
-    "blocks": ["image", "search-result-layout.customQuery"]
+    "blocks": ["image#landingbanner", "search-result-layout.customQuery"]
   },
-  "image": {
+  "image#landingbanner": {
     "props": {
       "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
       "minWidth": "100%"
