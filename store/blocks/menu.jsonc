@@ -6,10 +6,12 @@
       "menu-item#electronics"
     ],
     "props": {
-      "orientation": "horizontal"
+      "orientation": "horizontal",
+      "paddingRight": 4,
+      "horizontalAlign": "right"
     }
   },
- /*"vtex.menu@2.x:submenu#major": {
+  /*"vtex.menu@2.x:submenu#major": {
     "children": ["vtex.menu@2.x:menu#major"]
   },
   "vtex.menu@2.x:menu#major": {
